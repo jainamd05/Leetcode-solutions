@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
