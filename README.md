@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0830-positions-of-large-groups](https://github.com/jainamd05/Leetcode-solutions/tree/master/0830-positions-of-large-groups) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
