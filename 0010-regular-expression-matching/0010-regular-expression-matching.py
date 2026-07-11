@@ -1,16 +1,22 @@
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
-        text = s ; pattern = p
-        if not pattern:
-            return not text
+        dp=[[-1 for _ in range(len(p)+1)]for _ in range(len(s)+1)]
+        def dfs(i,j):
 
-        first_match = bool(text) and pattern[0] in {text[0], "."}
+            if i==len(s) and j==len(p):
+                return True
+            if j>=len(p):
+                return False
+            if dp[i][j]!=-1:
+                return dp[i][j]
+            
+            match = (i<len(s)) and ((s[i]==p[j] ) or (p[j]=="."))
+            if j+1<len(p) and p[j+1]=="*":
+                dp[i][j] =  dfs(i,j+2) or (match and dfs(i+1,j))
+            elif match:
+                dp[i][j]= dfs(i+1,j+1)
+            else:
+                dp[i][j]= False
+            return dp[i][j]
 
-        if len(pattern) >= 2 and pattern[1] == "*":
-            return (
-                self.isMatch(text, pattern[2:])
-                or first_match
-                and self.isMatch(text[1:], pattern)
-            )
-        else:
-            return first_match and self.isMatch(text[1:], pattern[1:])
+        return dfs(0,0)
