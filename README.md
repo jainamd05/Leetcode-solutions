@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0525-contiguous-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
