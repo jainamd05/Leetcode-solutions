@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
+| [2119-a-number-after-a-double-reversal](https://github.com/jainamd05/Leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2469-convert-the-temperature](https://github.com/jainamd05/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainamd05/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jainamd05/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
