@@ -137,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jainamd05/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jainamd05/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
