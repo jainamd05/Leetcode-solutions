@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0830-positions-of-large-groups](https://github.com/jainamd05/Leetcode-solutions/tree/master/0830-positions-of-large-groups) |
+| [0925-long-pressed-name](https://github.com/jainamd05/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/jainamd05/Leetcode-solutions/tree/master/0175-combine-two-tables) |
+## Two Pointers
+|  |
+| ------- |
+| [0925-long-pressed-name](https://github.com/jainamd05/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 <!---LeetCode Topics End-->
