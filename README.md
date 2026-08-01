@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jainamd05/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainamd05/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jainamd05/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/jainamd05/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jainamd05/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
