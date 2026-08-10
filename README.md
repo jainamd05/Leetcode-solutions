@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0925-long-pressed-name](https://github.com/jainamd05/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 ## Heap (Priority Queue)
 |  |
