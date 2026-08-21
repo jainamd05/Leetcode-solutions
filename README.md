@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jainamd05/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainamd05/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
+| [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/jainamd05/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/jainamd05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/jainamd05/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/jainamd05/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jainamd05/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -184,10 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/jainamd05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/jainamd05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0344-reverse-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0925-long-pressed-name](https://github.com/jainamd05/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 ## Heap (Priority Queue)
 |  |
