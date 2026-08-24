@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jainamd05/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0598-range-addition-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0598-range-addition-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainamd05/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
@@ -235,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jainamd05/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
