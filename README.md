@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/jainamd05/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainamd05/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jainamd05/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
