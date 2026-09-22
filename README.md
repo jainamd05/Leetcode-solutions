@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/jainamd05/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jainamd05/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jainamd05/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/jainamd05/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/jainamd05/Leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/jainamd05/Leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/jainamd05/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
