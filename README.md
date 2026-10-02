@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jainamd05/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jainamd05/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainamd05/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [3524-find-x-value-of-array-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -337,7 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainamd05/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
