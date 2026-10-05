@@ -19,16 +19,10 @@ public:
         }
 
         int n = pal.size() ;
+
         if (n == 1) return true ;
-        if (n%2 == 0){
-            for (int i = 0 ; i < n/2 ; i++){
-                if (pal[i] != pal[n-i-1]) return false ;
-            }
-        }
-        else {
-            for(int i = 0 ; i < n/2 ; i++){
-                if (pal[i] != pal[n-i-1]) return false ;
-            }
+        for(int i = 0 ; i < n/2 ; i++){
+            if (pal[i] != pal[n-i-1]) return false ;
         }
         return true ;
     }
