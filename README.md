@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/jainamd05/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/jainamd05/Leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/jainamd05/Leetcode-solutions/tree/master/1288-remove-covered-intervals) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jainamd05/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jainamd05/Leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jainamd05/Leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/jainamd05/Leetcode-solutions/tree/master/0456-132-pattern) |
+| [1019-next-greater-node-in-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/jainamd05/Leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
