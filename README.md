@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/jainamd05/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jainamd05/Leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jainamd05/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/jainamd05/Leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/jainamd05/Leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jainamd05/Leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/jainamd05/Leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
