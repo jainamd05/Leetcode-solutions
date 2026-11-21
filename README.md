@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jainamd05/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0748-shortest-completing-word](https://github.com/jainamd05/Leetcode-solutions/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0860-lemonade-change](https://github.com/jainamd05/Leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1019-next-greater-node-in-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/jainamd05/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
@@ -286,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jainamd05/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/jainamd05/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/jainamd05/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0845-longest-mountain-in-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jainamd05/Leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/jainamd05/Leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [1291-sequential-digits](https://github.com/jainamd05/Leetcode-solutions/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jainamd05/Leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/jainamd05/Leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jainamd05/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/jainamd05/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/jainamd05/Leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0845-longest-mountain-in-array](https://github.com/jainamd05/Leetcode-solutions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/jainamd05/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0925-long-pressed-name](https://github.com/jainamd05/Leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [1089-duplicate-zeros](https://github.com/jainamd05/Leetcode-solutions/tree/master/1089-duplicate-zeros) |
